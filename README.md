@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ariful Islam Fardin</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=007bff,00bcd4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ariful+Islam+Fardin!😀;" />
+</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinariful&label=Profile%20views&color=0e75b6&style=flat" alt="fardinariful" /> </p>
