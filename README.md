@@ -43,7 +43,9 @@ My expertise lies in crafting responsive, scalable web applications using modern
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinariful&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="165"/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=fardinariful&theme=algolia&hide_border=true" alt="GitHub Streak Stats" height="165"/>
+ <div align="center">
+  <img src="https://streak-stats.demolab.com?user=fardinariful&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
 </div>
 
