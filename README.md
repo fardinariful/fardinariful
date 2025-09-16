@@ -34,15 +34,19 @@ My expertise lies in crafting responsive, scalable web applications using modern
 
 ## 📊 GitHub Analytics
 
-**NOTE:** The public versions of these services often fail due to high traffic. To ensure they work reliably, you should self-host them on your own Vercel account after forking the projects.
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fardinariful&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinariful&layout=compact&theme=algolia&hide_border=true&exclude_repo=fardinariful.github.io" alt="Top Languages" height="165"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fardinariful&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinariful&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinariful&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="165"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=fardinariful&theme=algolia&hide_border=true" alt="GitHub Streak Stats" height="165"/>
+
 </div>
+
 
 
 ---
