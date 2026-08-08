@@ -49,5 +49,19 @@ I specialize in crafting high-performance, scalable web applications that delive
 ## 📈 Contribution Pulse
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinariful&theme=tokyonight&hide_border=true&stroke=00BFFF&fire=FF6600&ring=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=888888" alt="GitHub Streak Stats" />
+
+  <!-- GitHub Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fardinariful&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
+
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fardinariful&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+
 </div>
