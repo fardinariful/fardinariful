@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&height=70&lines=Ariful+Islam+Fardin;Full+Stack+Developer;Frontend+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&height=70&lines=Ariful+Islam+Fardin;Full+Stack+Developer;Frontend+Specialist" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">Software Engineer | Frontend Specialist | Technology Enthusiast</h3>
@@ -32,6 +32,8 @@ I specialize in crafting high-performance, scalable web applications that delive
   </tr>
 </table>
 
+<br clear="both"/>
+
 ---
 
 ## 🛠️ Technical Arsenal
@@ -52,7 +54,7 @@ I specialize in crafting high-performance, scalable web applications that delive
 
   <!-- GitHub Contribution Graph -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=fardinariful&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph-two-pi.vercel.app/graph?username=fardinariful&theme=tokyo-night&hide_border=true"
     alt="GitHub Contribution Graph"
   />
 
@@ -60,7 +62,7 @@ I specialize in crafting high-performance, scalable web applications that delive
 
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fardinariful&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=fardinariful&theme=tokyonight&hide_border=true"
     alt="GitHub Streak Stats"
   />
 
