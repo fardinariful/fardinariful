@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="coding gif"/>
 
 🚀 **Building the future, one component at a time.**  
 I specialize in crafting high-performance, scalable web applications that deliver exceptional user experiences. Currently shaping digital products at **Betopia Group** while completing my B.Sc. in Computer Science & Engineering at **East West University**.
