@@ -8,14 +8,17 @@
 
 ## 💡 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="coding gif"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🚀 **Building the future, one component at a time.**  
+🚀 **Building the future, one component at a time.**
+
 I specialize in crafting high-performance, scalable web applications that deliver exceptional user experiences. Currently shaping digital products at **Betopia Group** while completing my B.Sc. in Computer Science & Engineering at **East West University**.
 
-🎯 **Primary Focus:** React Ecosystem · Next.js · TypeScript · Node.js  
-⚡ **Currently Mastering:** Advanced React Patterns · Redux Performance · AI/ML Integration  
-🔍 **Passionate About:** Cloud-Native Architecture · UI/UX Engineering · Real-World AI Applications  
+- 🎯 **Primary Focus:** React Ecosystem · Next.js · TypeScript · Node.js
+- ⚡ **Currently Mastering:** Advanced React Patterns · Redux Performance · AI/ML Integration
+- 🔍 **Passionate About:** Cloud-Native Architecture · UI/UX Engineering · Real-World AI Applications
 
 <table>
   <tr>
@@ -32,7 +35,14 @@ I specialize in crafting high-performance, scalable web applications that delive
   </tr>
 </table>
 
-<br clear="both"/>
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
