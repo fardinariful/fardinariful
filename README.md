@@ -21,10 +21,7 @@ I specialize in crafting high-performance, scalable web applications that delive
 - 🔍 **Passionate About:** Cloud-Native Architecture · UI/UX Engineering · Real-World AI Applications
 
 <table>
-  <tr>
-    <td>💼 <b>Position</b></td>
-    <td>Developer at <b>Betopia Group</b></td>
-  </tr>
+  
   <tr>
     <td>🎓 <b>Education</b></td>
     <td>B.Sc. in CSE, <b>East West University</b></td>
