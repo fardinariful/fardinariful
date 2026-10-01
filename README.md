@@ -14,7 +14,7 @@
 
 🚀 **Building the future, one component at a time.**
 
-I specialize in crafting high-performance, scalable web applications that deliver exceptional user experiences. Currently shaping digital products at **Betopia Group** while completing my B.Sc. in Computer Science & Engineering at **East West University**.
+I specialize in crafting high-performance, scalable web applications that deliver exceptional user experiences. I was shaping digital products at **SM Technology** while completing my B.Sc. in Computer Science & Engineering at **East West University**.
 
 <table>
   
