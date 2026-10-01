@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&height=70&lines=Ariful+Islam+Fardin;Full+Stack+Developer;Frontend+Specialist" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">Software Engineer | Frontend Specialist | Technology Enthusiast</h3>
+<h3 align="center">Software Engineer | AI Integration & Modern Web | Technology Enthusiast</h3>
 
 ---
 
