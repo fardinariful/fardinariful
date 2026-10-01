@@ -16,10 +16,6 @@
 
 I specialize in crafting high-performance, scalable web applications that deliver exceptional user experiences. Currently shaping digital products at **Betopia Group** while completing my B.Sc. in Computer Science & Engineering at **East West University**.
 
-- 🎯 **Primary Focus:** React Ecosystem · Next.js · TypeScript · Node.js
-- ⚡ **Currently Mastering:** Advanced React Patterns · Redux Performance · AI/ML Integration
-- 🔍 **Passionate About:** Cloud-Native Architecture · UI/UX Engineering · Real-World AI Applications
-
 <table>
   
   <tr>
